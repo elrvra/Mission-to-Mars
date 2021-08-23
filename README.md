@@ -17,7 +17,7 @@ Deliverable 3: Add Bootstrap 3 Components
 **Webpage is mobile-responsive**
 
 **Added jpg and bolded font**
-![alt tag](https://github.com/elrvra/Mission-to-Mars/blob/main/Resources/Deliverable3_addbootstrapcomponents1.png)
+![alt tag](https://github.com/elrvra/Mission-to-Mars/blob/main/Resources/Deliverable3_addbootstrapcomponents.png)
 ![alt tag](https://github.com/elrvra/Mission-to-Mars/blob/main/Resources/Deliverable3_addbootstrapcomponents2.png)
 
 ## Purpose of the Repository
