@@ -13,11 +13,12 @@ Deliverable 2: Update the Web App with Mars Hemisphere Images and Titles
 ![alt tag](https://github.com/elrvra/Mission-to-Mars/blob/main/Resources/Deliverable2_imagept2.png)
 
 Deliverable 3: Add Bootstrap 3 Components
+
+**Webpage is mobile-responsive**
+
 **Added jpg and bolded font**
 ![alt tag](https://github.com/elrvra/Mission-to-Mars/blob/main/Resources/Deliverable3_addbootstrapcomponents1.png)
 ![alt tag](https://github.com/elrvra/Mission-to-Mars/blob/main/Resources/Deliverable3_addbootstrapcomponents2.png)
-
-
 
 ## Purpose of the Repository
 After the scraping has been completed, the web app contains all the information from this module and the full-resolution images and titles for the four hemisphere images.
